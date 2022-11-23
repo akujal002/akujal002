@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @akujal002
+- 👀 I’m interested in front-end web et mobile developpment. 
+- 🌱 I’m currently learning JS REACT AND PHP.
